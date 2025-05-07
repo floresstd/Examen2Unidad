@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:floresrutas/pagina_uno.dart';
-import 'package:floresrutas/Ejercicio_uno.dart';
-import 'package:floresrutas/Ejercicio_dos.dart';
-import 'package:floresrutas/Ejercicio_tres.dart';
-import 'package:floresrutas/Ejercicio_cuatro.dart';
-import 'package:floresrutas/Ejercicio_cinco.dart';
-import 'package:floresrutas/Ejercicio_seis.dart';
-import 'package:floresrutas/Ejercicio_siete.dart';
-import 'package:floresrutas/Ejercicio_ocho.dart';
-import 'package:floresrutas/Ejercicio_nueve.dart';
-import 'package:floresrutas/Ejercicio_diez.dart';
+import 'package:floresrutas/AnimatedContainer.dart';
+import 'package:floresrutas/MediaQuery.dart';
+import 'package:floresrutas/AlertDialog.dart';
+import 'package:floresrutas/Text.dart';
+import 'package:floresrutas/RichText.dart';
+import 'package:floresrutas/Timer.dart';
+import 'package:floresrutas/PageView.dart';
+import 'package:floresrutas/Stack.dart';
+import 'package:floresrutas/TextField.dart';
+import 'package:floresrutas/AnimatedIcon.dart';
 
 void main() => runApp(MiRutasApp());
 
